@@ -1,0 +1,48 @@
+{
+  "name": "embedded-uiux-walkthrough",
+  "version": "0.1.0",
+  "description": "Installable agent skill for building embedded UI/UX walkthroughs, product tours, onboarding demos, and fake-cursor app tutorials with real component parity.",
+  "license": "MIT",
+  "author": "Tanwyhang",
+  "type": "commonjs",
+  "bin": {
+    "embedded-uiux-walkthrough": "bin/embedded-uiux-walkthrough.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "smoke": "node bin/embedded-uiux-walkthrough.js --help"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai-skill",
+    "agent-skill",
+    "claude-skill",
+    "opencode-skill",
+    "embedded-walkthrough",
+    "ui-walkthrough",
+    "ux-walkthrough",
+    "product-tour",
+    "onboarding",
+    "interactive-tutorial",
+    "fake-cursor",
+    "nextjs",
+    "react",
+    "iframe-demo",
+    "demo-mode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanwyhang/embedded-uiux-walkthrough.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tanwyhang/embedded-uiux-walkthrough/issues"
+  },
+  "homepage": "https://github.com/Tanwyhang/embedded-uiux-walkthrough#readme"
+}
