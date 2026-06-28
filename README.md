@@ -2,6 +2,8 @@
 
 An installable agent skill for building embedded UI/UX walkthroughs, product tours, onboarding demos, and fake-cursor tutorials that reuse real app components with demo-only data.
 
+![Aero embedded UI/UX walkthrough example with fake cursor, highlighted target, and guide card](assets/aero-tutorial-walkthrough.jpg)
+
 ## Install With npx
 
 From any project directory:
